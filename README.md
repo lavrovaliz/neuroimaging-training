@@ -1,0 +1,2 @@
+# neuroimaging-training
+a very basic info about neuroimaging (useful links, popular tools, open source datasets) + a very basic example of loading, visualisation, and analysis of the brain MRI. You need to have Python 3 (https://docs.anaconda.com/anaconda/install/) and Jupyter (https://jupyter.org/install) installed. You can find the Jupyter script in 'src' folder. The 'data' folder is for the imaging data and accompanying patients info, the 'results' folder is for all the documents generated while executing the script.
